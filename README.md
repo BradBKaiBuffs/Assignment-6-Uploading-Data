@@ -16,3 +16,17 @@
 
 ### User view upload page
 - Site url is 127.0.0.1:8000/upload/
+
+### Note: Below are the reference pages to quick view changes after importing csv data.
+
+The dedicated pages for address 127.0.0.1:8000/ are:
+Student/
+Major/
+Course/
+Requirement/
+Major_requirement/
+Major_selection/
+Enroll/
+Course_requirement/
+
+Example: 127.0.0.1:8000/Student/ to view student records in a table
